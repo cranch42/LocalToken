@@ -1,0 +1,18 @@
+{
+  "name": "LocalToken",
+  "id": "1454452370333180144",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "permissions": ["teamlibrary"],
+  "documentAccess": "dynamic-page",
+  "editorType": [
+    "figma"
+  ],
+  "networkAccess": {
+    "allowedDomains": [
+      "none"
+    ]
+  }
+}
